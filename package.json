@@ -11,5 +11,9 @@
     "url": "?.git"
   },
   "author": "Joao Barradas",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "jquery": "^2.1.4"
+  }
 }
